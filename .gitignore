@@ -1,0 +1,18 @@
+# Node_modules and other dependencies
+node_modules/
+npm-debug.log
+# IDE files
+.vscode/
+# OS files
+.DS_Store
+__MACOSX
+# Logs
+logs
+*.log
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.log
+
+Note: The above content is a standard .gitignore file, which ignores node_modules, IDE files, OS files, logs, and runtime data.
