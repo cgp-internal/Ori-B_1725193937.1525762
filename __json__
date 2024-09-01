@@ -1,0 +1,12 @@
+{
+    "index.html": {
+        "description": "Main HTML file displaying 'Hello World' text",
+        "dependencies": {}
+    },
+    ".gitignore": {
+        "description": ".gitignore with standard ignored files"
+    },
+    "README.md": {
+        "description": "README with basic documentation and 'how to run' guide"
+    }
+}
